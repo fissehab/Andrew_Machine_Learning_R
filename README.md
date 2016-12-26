@@ -1,0 +1,1 @@
+This repository, whic is work in progress, contains R version of the programing exercises of the famous coursera course offered by Andrew Ng.
